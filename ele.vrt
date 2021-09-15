@@ -1,0 +1,9 @@
+<VRTDataset rasterXSize="4895" rasterYSize="8636">
+	<VRTRasterBand dataType="Float64" band="1" subClass="VRTRawRasterBand">
+		<SourceFilename relativetoVRT="1">ele</SourceFilename>
+		<ByteOrder>LSB</ByteOrder>
+		<ImageOffset>0</ImageOffset>
+		<PixelOffset>8</PixelOffset>
+		<LineOffset>39160</LineOffset>
+	</VRTRasterBand>
+</VRTDataset>
