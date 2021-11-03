@@ -1,3 +1,3 @@
 # uavsar_scripts
 
-# scipts for uavsat stuff
+A collection of notebooks for formatting, visualizing, and analyze all types of UAVSAR based PolSAR and InSAR products
